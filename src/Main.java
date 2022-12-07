@@ -6,7 +6,7 @@ public class Main {
   }
 
   public static void outputSortedArray (int[] array){
-    InsertionSort.insertionSort(array);
+    (array);
     for (int arr : array) {
       System.out.print(arr + " ");
     }
